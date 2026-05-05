@@ -1,0 +1,15 @@
+.vscode/
+.vs/
+allegro/
+
+*.o
+*.obj
+*.exe
+*.out
+*.swp
+*.dll
+*.entitlements.xml
+
+Thumbs.db
+allegro.log
+log.txt
